@@ -13,5 +13,5 @@ def print_hi(name: object) -> object:
 if __name__ == '__main__':
     print_hi('Karen')
     print_hi('Karen_GG')
-
+print_hi('Karen_GG_b')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

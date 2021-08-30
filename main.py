@@ -9,7 +9,7 @@ def print_hi(name: object) -> object:
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 def test_add(a,b):
-    return a+b
+    return a-b
 
 
 # Press the green button in the gutter to run the script.
